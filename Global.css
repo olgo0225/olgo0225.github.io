@@ -13,7 +13,7 @@
   }
   
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #eaeaea;
     color: black;
   }
   
@@ -25,3 +25,8 @@
   html{
     background: #0c005a; 
   }
+
+  img.alt{
+    color: #eaeaea;
+  }
+  

@@ -1,0 +1,31 @@
+h1 {
+    text-align:center;
+    padding-top:3%;
+    border-bottom: solid #eaeaea;
+    color: #eaeaea;
+    font-size: 54px; 
+    font-weight: 300; 
+    line-height: 58px; 
+    margin: 0 0 58px; 
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    width: 20%;
+    padding-left:15%;
+    padding-right:15%;
+    padding-top:7%;
+    padding-bottom:7%;
+}
+
+p {
+    color:#eaeaea;
+    padding-right:5%;
+    padding-top:3%;
+
+}
+
+.home-wrapper{
+    display:flex;
+}
